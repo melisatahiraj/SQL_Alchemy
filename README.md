@@ -1,4 +1,4 @@
-# sqlalchemy-challenge-10
+# SQL Alchemy
 
 ## Requirements
 
